@@ -5,7 +5,7 @@
 ## About Me
 - Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 - Jurusan yang saya ambil adalah **informatika**.<br>
-- Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan yaitu [lagu](https://youtu.be/Mf-_0DWVmpE) Enhypen cover.<br>
+- Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan yaitu [lagu](https://youtu.be/8Q5-VOtcZuw) Enhypen cover.<br>
 
 ## Social Media
 
