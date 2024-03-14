@@ -1,12 +1,12 @@
-### Hii👋
+# Hii, i'm cindy <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ![coba_lihat_gambar_ini](/kucing.jpg)
-
-Perkenalkan nama saya **cindy**.<br>
 
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
  
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
+Jurusan yang saya ambil adalah **informatika**.<br>
+Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan adalah **What Makes You Beautiful** Enhypen cover.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/l16.07_/)ku ya.
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
