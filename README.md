@@ -1,13 +1,17 @@
-![image](https://github.com/cindyy01/cindyy01/assets/163388959/079c0a22-731c-406c-8e62-0d739cb381f4)
-# Halo semua! 
- 
+### Hii👋
+
+![coba_lihat_gambar_ini](/kucing.jpg)
+
 Perkenalkan nama saya **cindy**.<br>
+
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
  
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
- ![coba_lihat_gambar_ini](/kucing.jpg)
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/l16.07_/)ku ya.
- 
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/cindyy01">
