@@ -7,12 +7,11 @@
 - Jurusan yang saya ambil adalah **informatika**.<br>
 - Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan yaitu [lagu](https://youtu.be/Mf-_0DWVmpE) Enhypen cover.<br>
 
-## :link: Links
+## Social Media
 
 <p align="center">
 <a href="https://www.instagram.com/l16.07_"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-
-
+<a href= "https://twitter.com/"><img src="https://img.icons8.com/color/96/000000/twitter.png"/></a>
 <h1>
   i really like music :headphones:
 </h1>
