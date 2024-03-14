@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/l16.07_"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-<a href= "https://twitter.com/"><img src="https://img.icons8.com/color/96/000000/twitter.png"/></a>
+<a href= "https://twitter.com/chindy"><img src="https://img.icons8.com/color/96/000000/twitter.png"/></a>
 <h1>
   i really like music :headphones:
 </h1>
