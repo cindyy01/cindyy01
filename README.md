@@ -12,10 +12,13 @@
 <p align="center">
 <a href="https://www.instagram.com/l16.07_"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 <a href= "https://twitter.com/chindy_x11"><img src="https://img.icons8.com/color/96/000000/twitter.png"/></a>
+<br><br><br>
+  
 <h1>
   i really like music :headphones:
 </h1>
 
+  
 <h2 align="center">
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
