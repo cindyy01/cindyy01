@@ -7,7 +7,7 @@
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 Jurusan yang saya ambil adalah **informatika**.<br>
 Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan adalah **What Makes You Beautiful** Enhypen cover.<br>
-Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan adalah [lagu](https://www.lagu.com/https://youtu.be/Mf-_0DWVmpE_/) Enhypen cover.<br>
+Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan adalah [lagu](https://youtu.be/Mf-_0DWVmpE) Enhypen cover.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/l16.07_/) ku ya.
 
 <br><br>
