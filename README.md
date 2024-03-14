@@ -5,7 +5,7 @@ Perkenalkan nama saya **cindy**.<br>
  
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/I16.07_/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/l16.07_/)ku ya.
  
 ### Github Statistic
 <p align="left">
