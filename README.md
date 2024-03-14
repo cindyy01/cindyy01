@@ -1,10 +1,11 @@
-
+![image](https://github.com/cindyy01/cindyy01/assets/163388959/079c0a22-731c-406c-8e62-0d739cb381f4)
 # Halo semua! 
  
 Perkenalkan nama saya **cindy**.<br>
  
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
- 
+ ![coba_lihat_gambar_ini](/kucing.jpg)
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/l16.07_/)ku ya.
  
 ### Github Statistic
