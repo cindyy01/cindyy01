@@ -4,8 +4,11 @@
 
 ## About Me
 - Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
-- Jurusan yang saya ambil adalah **informatika**.<br>
-- Saya suka mendengarkan lagu,salah satu lagu yang biasa saya dengarkan yaitu [lagu](https://youtu.be/8Q5-VOtcZuw) Enhypen cover.<br>
+- My major is **informatics**.<br>
+## My favorite music :headphones:
+- [What Makes You Beautiful Enhypen cover](https://youtu.be/8Q5-VOtcZuw)<br>
+- [Enhypen Album](https://youtu.be/e-Z6ipLBnDQ)<br>
+
 
 ## Social Media
 
@@ -14,9 +17,6 @@
 <a href= "https://twitter.com/chindy_x11"><img src="https://img.icons8.com/color/96/000000/twitter.png"/></a>
 <br><br><br>
   
-<h1>
-  i really like music :headphones:
-</h1>
 
   
 <h2 align="center">
