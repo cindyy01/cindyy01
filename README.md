@@ -5,18 +5,11 @@
 ![coba_lihat_gambar_ini](/kucing.jpg)
 
 ## About Me
-- I,m study on **campus** [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
-- My major is **informatics**.<br>
+* 🎓 I,m study on **campus** [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
+* 💻 My major is **informatics** .<br>
 
-## My favorite music :headphones:
-- [What Makes You Beautiful Enhypen cover](https://open.spotify.com/intl-id/track/4NxbUHGeXsQgxvR8YKbHjC?si=c96528529bb049ee)<br>
-- [Enhypen](https://youtu.be/e-Z6ipLBnDQ)<br>
-- [Seventeen](https://youtu.be/KcGBLknjv80)<br>
-- [BTS](https://youtu.be/YLbhMzXqPpQ)<br>
-- [Boy Next Door](https://youtu.be/Fy0dqCxTGH4)<br>
-- [Zb1](https://youtu.be/bsLETdBHeME)<br>
-
-
+ ## My favorite music :headphones:
+  🎵 [What Makes You Beautiful Enhypen cover](https://open.spotify.com/intl-id/track/4NxbUHGeXsQgxvR8YKbHjC?si=c96528529bb049ee)<br>
 
 
 ## Social Media
@@ -41,3 +34,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cindyy01-kalian&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
