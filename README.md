@@ -1,13 +1,22 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> **Hii Welcome,i'm cindy**
+<h3 align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hii Welcome,i'm cindy
+</h3>
 
 ![coba_lihat_gambar_ini](/kucing.jpg)
 
 ## About Me
-- Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
+- I,m study on **campus** [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
 - My major is **informatics**.<br>
+
 ## My favorite music :headphones:
-- [What Makes You Beautiful Enhypen cover](https://youtu.be/8Q5-VOtcZuw)<br>
-- [Enhypen Album](https://youtu.be/e-Z6ipLBnDQ)<br>
+- [What Makes You Beautiful Enhypen cover](https://open.spotify.com/intl-id/track/4NxbUHGeXsQgxvR8YKbHjC?si=c96528529bb049ee)<br>
+- [Enhypen](https://youtu.be/e-Z6ipLBnDQ)<br>
+- [Seventeen](https://youtu.be/KcGBLknjv80)<br>
+- [BTS](https://youtu.be/YLbhMzXqPpQ)<br>
+- [Boy Next Door](https://youtu.be/Fy0dqCxTGH4)<br>
+- [Zb1](https://youtu.be/bsLETdBHeME)<br>
+
+
 
 
 ## Social Media
